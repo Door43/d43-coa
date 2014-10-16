@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[coa:home|Door43 (coa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-coa|d43-coa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-coa/archive/master.zip|d43-coa.zip]]
+
+**Recent Changes**
+{{changes>ns = coa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/coa|Ethnologue data]]
+
